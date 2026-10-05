@@ -1,0 +1,66 @@
+APP NAME
+PickPulse X
+
+SUBTITLE (max 30)
+Game forecasts with ranges
+
+PROMOTIONAL TEXT (max 170)
+See how likely each outcome is, with the uncertainty drawn, not hidden. Forecasts refresh daily and again shortly before tip-off.
+
+DESCRIPTION
+PickPulse X turns game results into clear probabilities for upcoming basketball games.
+
+FOR EVERY GAME
+- Each team's chance to win
+- The likely score, total and margin, with an 80% range that shows how uncertain a result really is
+- First half and first quarter outlooks
+- Player stat ranges once rosters and recent games are known
+- A short written take on what is driving the forecast
+
+THRESHOLD EXPLORER
+Pick any total or margin you like and see the chance a game finishes above it, below it or exactly on it. The thresholds are yours; the chances come straight from the forecast.
+
+INJURY REPORTS, FACTORED IN
+As a game gets close, injury reports are added and the numbers shift. You can see who is listed and how they are listed, right on the game page.
+
+UPDATED EVERY DAY
+Forecasts refresh daily with the latest results and schedules, with one last update shortly before each game starts.
+
+SEE HOW IT PLAYED OUT
+Past days show the forecast made before tip-off next to the final score, so you can judge for yourself.
+
+THE BOARD
+Every team's form at a glance: Elo, offense, defense and net rating, plus a style view of pace, shooting, turnovers, rebounding and free throws.
+
+DESIGNED TO BE CLEAR
+A calm, editorial design with light and dark appearance, built for quick reading.
+
+ANALYSIS ONLY
+PickPulse X is statistical analysis, not advice, and makes no guarantees. No accounts, no ads and no tracking.
+
+KEYWORDS (max 100 bytes)
+basketball,forecast,probability,analytics,statistics,predictions,schedule,scores,injuries,ratings
+
+WHAT'S NEW
+First release.
+
+SUPPORT URL
+https://zephyranthess.github.io/PickPulse-X/support.html
+
+PRIVACY POLICY URL
+https://zephyranthess.github.io/PickPulse-X/privacy_policy.html
+
+MARKETING URL
+https://zephyranthess.github.io/PickPulse-X/
+
+COPYRIGHT
+2026 PickPulse X
+
+CATEGORY
+Primary: Sports
+
+AGE RATING
+4+. No gambling, contests, user-generated content, web access or purchases.
+
+APP PRIVACY
+Data Not Collected.
