@@ -1,45 +1,42 @@
-APP NAME
-PickPulse X
+APP NAME (max 30)
+PickPulse X: Basketball Stats
 
 SUBTITLE (max 30)
-Game forecasts with ranges
+Win Probability & Predictions
 
-PROMOTIONAL TEXT (max 170)
-See how likely each outcome is, with the uncertainty drawn, not hidden. Forecasts refresh daily and again shortly before tip-off.
+PROMOTIONAL TEXT (max 170; can be changed any time without a new review)
+Basketball forecasts for every game this week: win probability, projected scores with ranges and injury reports. Refreshed daily and before tip-off.
 
 DESCRIPTION
-PickPulse X turns game results into clear probabilities for upcoming basketball games.
+How likely is each basketball game to go either way? PickPulse X shows you, game by game, for the next 7 days: win probability, projected score and honest ranges, refreshed every day and again shortly before tip-off.
 
-FOR EVERY GAME
-- Each team's chance to win
-- The likely score, total and margin, with an 80% range that shows how uncertain a result really is
+WHAT YOU GET FOR EVERY GAME
+- Win probability for both teams
+- Projected score, total and margin, with an 80% range so you can see how uncertain a result really is
 - First half and first quarter outlooks
 - Player stat ranges once rosters and recent games are known
-- A short written take on what is driving the forecast
-
-THRESHOLD EXPLORER
-Pick any total or margin you like and see the chance a game finishes above it, below it or exactly on it. The thresholds are yours; the chances come straight from the forecast.
+- A short written take on what is driving the forecast, from team form and rest to home court and who is on the injury report
 
 INJURY REPORTS, FACTORED IN
-As a game gets close, injury reports are added and the numbers shift. You can see who is listed and how they are listed, right on the game page.
+As a game gets close, injury reports are added and the numbers shift. See who is listed and how, right on the game page.
 
-UPDATED EVERY DAY
-Forecasts refresh daily with the latest results and schedules, with one last update shortly before each game starts.
+TEST YOUR OWN NUMBERS
+Pick any total or margin and see the chance a game finishes above it, below it or exactly on it. The thresholds are yours; the chances come straight from the forecast.
 
 SEE HOW IT PLAYED OUT
-Past days show the forecast made before tip-off next to the final score, so you can judge for yourself.
+Past days show the forecast made before tip-off next to the final score, so you can judge the numbers for yourself.
 
-THE BOARD
-Every team's form at a glance: Elo, offense, defense and net rating, plus a style view of pace, shooting, turnovers, rebounding and free throws.
+EVERY TEAM AT A GLANCE
+The Board ranks every team by rating and form: Elo, offense, defense and net rating, plus a style view of pace, shooting, turnovers, rebounding and free throws.
 
-DESIGNED TO BE CLEAR
-A calm, editorial design with light and dark appearance, built for quick reading.
+MADE TO BE READ FAST
+A calm, editorial design with light and dark appearance. Open it, scan the day, dive into any game.
 
 ANALYSIS ONLY
-PickPulse X is statistical analysis, not advice, and makes no guarantees. No accounts, no ads and no tracking.
+PickPulse X is statistical analysis, not advice, and makes no guarantees. No accounts, no ads, no tracking.
 
-KEYWORDS (max 100 bytes)
-basketball,forecast,probability,analytics,statistics,predictions,schedule,scores,injuries,ratings
+KEYWORDS (max 100 bytes; words already in the name or subtitle are not repeated)
+forecast,analytics,score,predictor,injury,report,schedule,player,team,rating,matchup,projection,game
 
 WHAT'S NEW
 First release.
