@@ -21,7 +21,7 @@ INJURY REPORTS, FACTORED IN
 As a game gets close, injury reports are added and the numbers shift. See who is listed and how, right on the game page.
 
 TEST YOUR OWN NUMBERS
-Pick any total or margin and see the chance a game finishes above it, below it or exactly on it. The thresholds are yours; the chances come straight from the forecast.
+Choose any total or margin and see the chance a game finishes above it, below it or exactly on it. The thresholds are yours; the chances come straight from the forecast.
 
 SEE HOW IT PLAYED OUT
 Past days show the forecast made before tip-off next to the final score, so you can judge the numbers for yourself.
