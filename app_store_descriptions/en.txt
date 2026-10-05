@@ -35,6 +35,10 @@ A calm, editorial design with light and dark appearance. Open it, scan the day, 
 ANALYSIS ONLY
 PickPulse X is statistical analysis, not advice, and makes no guarantees. No accounts, no ads, no tracking.
 
+Privacy Policy: https://zephyranthess.github.io/PickPulse-X/privacy_policy.html
+Terms of Use: https://zephyranthess.github.io/PickPulse-X/terms_of_use.html
+Support: https://zephyranthess.github.io/PickPulse-X/support.html
+
 KEYWORDS (max 100 bytes; words already in the name or subtitle are not repeated)
 forecast,analytics,score,predictor,injury,report,schedule,player,team,rating,matchup,projection,game
 
