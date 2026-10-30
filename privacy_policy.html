@@ -13,35 +13,43 @@
   <header class="top"><a class="brand" href="index.html">PickPulse X</a><nav><a href="index.html">Home</a><a href="support.html">Support</a><a href="privacy_policy.html">Privacy</a><a href="terms_of_use.html">Terms</a></nav></header>
   <div class="ribbon"><i class="a"></i><i class="t"></i><i class="h"></i></div>
   <h1>Privacy Policy</h1>
-  <p class="lead">PickPulse X does not collect personal data. This page explains exactly what the app does on your device and over the network.</p>
-  <p class="meta">Last updated October 6, 2026</p>
+  <p class="lead">PickPulse X has no accounts and collects no personal information. To keep your free picks and purchases without an account, it uses one anonymous identifier from the App Store. This page explains exactly what that means.</p>
+  <p class="meta">Last updated October 30, 2026</p>
   <h2>1. Who we are</h2>
-  <p>PickPulse X ("we", "us", "our") publishes the PickPulse X app for iPhone. For any privacy question, write to <a href="mailto:support@norfa.fun">support@norfa.fun</a>.</p>
+  <p>PickPulse X ("we", "us", "our") publishes the PickPulse X app for iPhone, iPad and Mac. For any privacy question, write to <a href="mailto:support@norfa.fun">support@norfa.fun</a>.</p>
 
   <h2>2. Data we collect</h2>
-  <p><strong>None.</strong> PickPulse X has no accounts, no sign-in, no analytics, no advertising identifiers and no tracking. It does not ask for your name, email, location, contacts, photos, microphone, camera or any other personal information, and it contains no third-party analytics or advertising SDKs.</p>
+  <p>PickPulse X has no accounts, no sign-in, no analytics, no advertising identifiers and no tracking. It never asks for your name, email, location, contacts, photos, microphone, camera or any other personal information, and it contains no third-party analytics or advertising SDKs.</p>
+  <p>To give you your free picks and the games you unlocked on every device, our server keeps the following, and only this:</p>
+  <ul>
+    <li><strong>An anonymous App Store identifier.</strong> The App Store gives each Apple Account one random identifier for this app (the "app transaction ID"). It does not reveal who you are, your Apple Account, your email or your device, and it cannot be used by us to identify or contact you.</li>
+    <li><strong>Your purchases of this app's in-app items:</strong> the App Store transaction number, the item, the date and the environment (live or test), as signed by Apple. We never see your payment details; Apple handles all payments.</li>
+    <li><strong>Your game unlocks and free picks:</strong> which games you unlocked, when, and how (free pick or game unlock), plus your remaining game unlocks and Season Pass end date.</li>
+  </ul>
+  <p>We use this only to provide the app's features (App Functionality). It is not used for advertising, analytics, profiling or tracking, and it is never sold or shared.</p>
 
   <h2>3. What stays on your device</h2>
   <ul>
-    <li>A single setting that records that you have read the welcome notice, so it is not shown every time you open the app.</li>
-    <li>Your appearance choice (system, light or dark) while the app is open.</li>
+    <li>A setting that records that you have read the welcome notice.</li>
+    <li>Your appearance choice (system, light or dark).</li>
+    <li>A copy of the last forecasts the app loaded, so it still opens without a connection.</li>
   </ul>
   <p>These never leave your device. Deleting the app removes them.</p>
 
   <h2>4. Network use</h2>
-  <p>When you open the app, it downloads one public file of forecasts from our static host (served by Cloudflare). Like any web request, this exposes standard technical information to the host, such as your IP address, the time, and basic request details. The host may keep standard server logs for security and reliability. We do not attach this to any identity, we do not combine it with other data, and the app sends no information about you in the request. If the download fails, the app falls back to a forecast file bundled inside it.</p>
+  <p>The app talks only to our server (run on Cloudflare) over encrypted HTTPS: it downloads the calendar and forecasts, and, to show the games you unlocked, sends the anonymous App Store identifier described in section 2 together with Apple's signed proof of it. When you buy something, it sends Apple's signed receipt of that purchase. Like any web request, this exposes standard technical information to the host, such as your IP address and the time. We do not store IP addresses with your identifier and do not combine request details with anything else.</p>
 
   <h2>5. Third parties</h2>
-  <p>We use Cloudflare to host and deliver the forecast file, and Apple distributes the app through the App Store. Cloudflare processes the technical details of each download request (described in section 4) under its own privacy terms, only to deliver the file and keep the service secure. We do not share any user data with any other third party, and the app contains no analytics, advertising or tracking SDKs. We do not sell, rent or share personal information, because we do not collect any.</p>
+  <p>Apple distributes the app and processes all payments under its own privacy policy. Cloudflare hosts our server and database and processes request details only to run and secure the service. We do not share data with anyone else, and the app contains no analytics, advertising or tracking SDKs.</p>
 
   <h2>6. Retention and deletion</h2>
-  <p>We do not retain personal data about you. The only information tied to your use of the app that exists anywhere is what stays on your device (section 3), plus the short-lived request logs described in section 4, which are kept by the host under its standard practice and are not linked to you. Deleting the app removes everything stored on your device, and there is nothing for us to delete on our side. If you think we hold data about you, write to us and we will look into it.</p>
+  <p>Purchase and unlock records are kept for as long as you may use what you bought (game unlocks never expire), and as long as the law requires for purchase records. Short-lived sign-in records expire after a day. To have your records deleted, write to us with the support reference shown in the app (Purchases, under About) and we will remove them; note that this also removes your unused game unlocks and Season Pass access, which cannot be restored afterwards. Deleting the app removes everything stored on your device.</p>
 
   <h2>7. Consent and your choices</h2>
-  <p>The app does not request any permissions and does not track you, so there is no collection that needs your consent and nothing to withdraw. You can stop all network use at any time by turning off the connection or deleting the app. Because we hold no personal data, there is nothing to access, correct or delete.</p>
+  <p>The app requests no device permissions and does not track you. The anonymous identifier is used only to provide the free picks and the purchases you choose to make; the welcome screens explain this before you start. You can stop all network use at any time by turning off the connection or deleting the app, and you can ask us to delete your records at any time (section 6).</p>
 
   <h2>8. Children and security</h2>
-  <p>The app is not directed at children and collects nothing from anyone, including children. The forecast file is downloaded over an encrypted HTTPS connection, and the app is read-only: it cannot send data to us.</p>
+  <p>The app is not directed at children. All traffic is encrypted (HTTPS). Purchases are verified with Apple's cryptographic signatures, and forecast data is kept in a private database that only our server can read.</p>
 
   <h2>9. Changes to this policy</h2>
   <p>If this policy changes, we will post the new version here and update the date above.</p>
